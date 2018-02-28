@@ -1,0 +1,7 @@
+C:\Users\suhaila\source\repos\FunRock-Task1\FunRock-Task1\bin\Debug\FunRock-Task1.exe.config
+C:\Users\suhaila\source\repos\FunRock-Task1\FunRock-Task1\bin\Debug\FunRock-Task1.exe
+C:\Users\suhaila\source\repos\FunRock-Task1\FunRock-Task1\bin\Debug\FunRock-Task1.pdb
+C:\Users\suhaila\source\repos\FunRock-Task1\FunRock-Task1\obj\Debug\FunRock-Task1.csprojResolveAssemblyReference.cache
+C:\Users\suhaila\source\repos\FunRock-Task1\FunRock-Task1\obj\Debug\FunRock-Task1.csproj.CoreCompileInputs.cache
+C:\Users\suhaila\source\repos\FunRock-Task1\FunRock-Task1\obj\Debug\FunRock-Task1.exe
+C:\Users\suhaila\source\repos\FunRock-Task1\FunRock-Task1\obj\Debug\FunRock-Task1.pdb
